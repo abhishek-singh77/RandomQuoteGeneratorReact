@@ -40,7 +40,7 @@ const Quotes = () => {
 
             <div id="buttons">
                 <div className="social-media">
-                    <a href="#" id="tweet-quote">
+                    <a href="twitter.com/intent/tweet" id="tweet-quote">
                         <span><img src ={twitterIcon} alt=""  />  </span>
                     </a>
                     <a href="#" id="insta-quote">
