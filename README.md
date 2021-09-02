@@ -1,3 +1,6 @@
+Link for published page is here : https://abhishek-singh77.github.io/RandomQuoteGeneratorReact/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
