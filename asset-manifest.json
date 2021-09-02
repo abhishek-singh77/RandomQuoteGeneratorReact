@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RandomQuoteGeneratorReact/static/css/main.da71f856.chunk.css",
+    "main.js": "/RandomQuoteGeneratorReact/static/js/main.3747741b.chunk.js",
+    "main.js.map": "/RandomQuoteGeneratorReact/static/js/main.3747741b.chunk.js.map",
+    "runtime-main.js": "/RandomQuoteGeneratorReact/static/js/runtime-main.32b4938c.js",
+    "runtime-main.js.map": "/RandomQuoteGeneratorReact/static/js/runtime-main.32b4938c.js.map",
+    "static/js/2.3bcbcc56.chunk.js": "/RandomQuoteGeneratorReact/static/js/2.3bcbcc56.chunk.js",
+    "static/js/2.3bcbcc56.chunk.js.map": "/RandomQuoteGeneratorReact/static/js/2.3bcbcc56.chunk.js.map",
+    "static/js/3.2f56ad7f.chunk.js": "/RandomQuoteGeneratorReact/static/js/3.2f56ad7f.chunk.js",
+    "static/js/3.2f56ad7f.chunk.js.map": "/RandomQuoteGeneratorReact/static/js/3.2f56ad7f.chunk.js.map",
+    "index.html": "/RandomQuoteGeneratorReact/index.html",
+    "static/css/main.da71f856.chunk.css.map": "/RandomQuoteGeneratorReact/static/css/main.da71f856.chunk.css.map",
+    "static/js/2.3bcbcc56.chunk.js.LICENSE.txt": "/RandomQuoteGeneratorReact/static/js/2.3bcbcc56.chunk.js.LICENSE.txt",
+    "static/media/instagram.62572c86.svg": "/RandomQuoteGeneratorReact/static/media/instagram.62572c86.svg",
+    "static/media/twitter.5229b35a.svg": "/RandomQuoteGeneratorReact/static/media/twitter.5229b35a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32b4938c.js",
+    "static/js/2.3bcbcc56.chunk.js",
+    "static/css/main.da71f856.chunk.css",
+    "static/js/main.3747741b.chunk.js"
+  ]
+}
